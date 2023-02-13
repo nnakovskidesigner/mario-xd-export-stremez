@@ -1,0 +1,539 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 2;
+	--web-view-id: Web_1920__2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__2 {
+	position: absolute;
+	width: 1920px;
+	height: 933px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 2;
+	--web-view-id: Web_1920__2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Image_1 {
+	display: none;
+	position: absolute;
+	width: 1600px;
+	height: 1200px;
+	left: 160px;
+	top: -60px;
+	overflow: visible;
+}
+#Image_3 {
+	position: absolute;
+	width: 207px;
+	height: 62px;
+	left: 411px;
+	top: 112px;
+	overflow: visible;
+}
+#Image_4 {
+	position: absolute;
+	width: 46px;
+	height: 72px;
+	left: 374px;
+	top: 107px;
+	overflow: visible;
+}
+#Text {
+	left: 747px;
+	top: 121px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(21,53,140,1);
+}
+#Text_l {
+	left: 823px;
+	top: 121px;
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(21,53,140,1);
+}
+#Text_m {
+	left: 890px;
+	top: 121px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(21,53,140,1);
+}
+#n_ {
+	left: 1042px;
+	top: 121px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(21,53,140,1);
+}
+#Text_o {
+	left: 1125px;
+	top: 121px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(21,53,140,1);
+}
+#Rectangle_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 45px;
+	left: 1377px;
+	top: 112px;
+}
+#Rectangle_4 {
+	fill: rgba(229,229,229,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	height: 45px;
+	left: 1488px;
+	top: 112px;
+}
+#Rectangle_3 {
+	fill: transparent;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 5px;
+}
+#Text_s {
+	left: 1405px;
+	top: 120px;
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Text_t {
+	left: 1501px;
+	top: 119px;
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(114,114,138,1);
+}
+#n__u {
+	left: 397px;
+	top: 385px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -9.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(180,15,107,1);
+}
+#Image_5 {
+	position: absolute;
+	width: 767px;
+	height: 422px;
+	left: 908px;
+	top: 361px;
+	overflow: visible;
+}
+#n__________ {
+	left: 397px;
+	top: 426px;
+	position: absolute;
+	overflow: visible;
+	width: 557px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 43px;
+	color: rgba(15,46,133,1);
+}
+#Rectangle_5 {
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 1539px;
+	height: 1472px;
+	left: 189px;
+	top: 0px;
+}
+#Rectangle_1 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1486px;
+	height: 1434px;
+	left: 217px;
+	top: 23px;
+}
+#Image_7 {
+	display: none;
+	position: absolute;
+	width: 1600px;
+	height: 1200px;
+	left: 114px;
+	top: -23px;
+	overflow: visible;
+}
+#Image_3_ {
+	position: absolute;
+	width: 207px;
+	height: 62px;
+	left: 357px;
+	top: 112px;
+	overflow: visible;
+}
+#Image_4_ {
+	position: absolute;
+	width: 46px;
+	height: 72px;
+	left: 320px;
+	top: 107px;
+	overflow: visible;
+}
+#Text_ {
+	left: 693px;
+	top: 121px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(21,53,140,1);
+}
+#Text_ba {
+	left: 769px;
+	top: 121px;
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(21,53,140,1);
+}
+#Text_bb {
+	left: 836px;
+	top: 121px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(21,53,140,1);
+}
+#n__ {
+	left: 988px;
+	top: 121px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(21,53,140,1);
+}
+#Text_bc {
+	left: 1071px;
+	top: 121px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(21,53,140,1);
+}
+#Rectangle_2_ {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_ {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 45px;
+	left: 1323px;
+	top: 112px;
+}
+#Rectangle_4_ {
+	fill: rgba(229,229,229,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4_ {
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	height: 45px;
+	left: 1434px;
+	top: 112px;
+}
+#Rectangle_3_ {
+	fill: transparent;
+}
+.Rectangle_3_ {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: -54px;
+	top: 5px;
+}
+#Text_bd {
+	left: 1351px;
+	top: 120px;
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Text_be {
+	left: 1447px;
+	top: 119px;
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(114,114,138,1);
+}
+#n__bc {
+	left: 343px;
+	top: 385px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -9.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(180,15,107,1);
+}
+#Image_5_bd {
+	position: absolute;
+	width: 767px;
+	height: 422px;
+	left: 864px;
+	top: 334px;
+	overflow: visible;
+}
+#n___________be {
+	left: 343px;
+	top: 426px;
+	position: absolute;
+	overflow: visible;
+	width: 557px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 43px;
+	color: rgba(15,46,133,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con {
+	left: 347px;
+	top: 641px;
+	position: absolute;
+	overflow: visible;
+	width: 543px;
+	white-space: nowrap;
+	line-height: 32px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(112,112,112,1);
+}
+#Rectangle_6 {
+	fill: rgba(21,53,140,1);
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 160px;
+	height: 56px;
+	left: 347px;
+	top: 736px;
+}
+#Rectangle_7 {
+	fill: rgba(211,0,93,1);
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 160px;
+	height: 56px;
+	left: 528px;
+	top: 736px;
+}
+#Text_bi {
+	left: 381px;
+	top: 746px;
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	line-height: 32px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+#Text_bj {
+	left: 565px;
+	top: 746px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	line-height: 32px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
